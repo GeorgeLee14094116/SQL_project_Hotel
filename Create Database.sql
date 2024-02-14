@@ -1,3 +1,5 @@
+-- Crate dtat base
+
 USE MASTER;
 GO
 IF EXISTS(	SELECT	name
